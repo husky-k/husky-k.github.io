@@ -107,15 +107,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "유경민"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "데이터 엔지니어, 딥러닝 공부 중"
+  location         : "안성시 금광면 홍익아파트"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:rkmwiaim1@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
